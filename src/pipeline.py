@@ -1,7 +1,7 @@
 import os
 from docling.document_converter import DocumentConverter
 import gc 
-
+# Add to be able to create PR
 # Base directory (directory where this script lives)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
