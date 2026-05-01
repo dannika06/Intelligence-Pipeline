@@ -15,6 +15,7 @@ This project implements a simple document intelligence pipeline that processes r
 - Docling (IBM document conversion library)
 
 ## Project Structure
+```
 intelligence-pipeline/
 │
 ├── input_docs/
@@ -34,7 +35,7 @@ intelligence-pipeline/
 ├── REPORT.md
 ├── requirements.txt
 └── REVIEW_NOTES.md
-
+```
 
 ## Setup Instructions
 
